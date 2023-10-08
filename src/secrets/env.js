@@ -1,0 +1,9 @@
+const PORT = 3000;
+
+const GOGATEWAY_TOKEN = "sandr";
+
+const GOGATEWAY_TOKEN_ALGORITHM = "sha256";
+
+const GOGATEWAY_BACKEND_URL = "https://bsc.gogateway.io";
+
+export { PORT, GOGATEWAY_TOKEN, GOGATEWAY_TOKEN_ALGORITHM, GOGATEWAY_BACKEND_URL };
